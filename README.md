@@ -10,8 +10,8 @@ agar para siswa bisa lebih semangat lagi dalam berkarya.
 Salam,
 
 SMK AL ITTIHAD MABDAUL ULUM
-laman           : http://smk-alittihad-mu.sch.id/
-Laman APP Siswa : http://smk-alittihad-mu.sch.id/appsiswa
-Instagram       : @smkalittihad_mu
-Email           : smkalittihad.mabdaululum@gmail.com
-Alamat          :  Jl. Mulyasari RT 02/01 Kel.Mulyasari Kec.Tamansari Kota Tasikmalaya
+laman                    : http://smk-alittihad-mu.sch.id/
+Laman Dwonlaod APP Siswa : http://smk-alittihad-mu.sch.id/appsiswa
+Instagram                : @smkalittihad_mu
+Email                    : smkalittihad.mabdaululum@gmail.com
+Alamat                   : Jl. Mulyasari RT 02/01 Kel.Mulyasari Kec.Tamansari Kota Tasikmalaya
